@@ -161,6 +161,7 @@ CONF_ALLIANCES = CONF.get(
     "default", "alliances",
     fallback="Good Guys:Good Guys;"
              "Castle:Castle,Ancient Blood,Gathered Might,Freya's Chariot,Black Lotus,Akatsuki,Dungeon Crawlers of Norrath,Senpai;"
+             "Safe Space:Safe Space,Snake Fang Gang;"
              "Kingdom:Kingdom,Karens of Karana"
 )
 CONF_EXTRA_ALLIANCES = CONF.get(
